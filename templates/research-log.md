@@ -58,7 +58,7 @@ Copy this file for each research session. Fill it in **during** the session, not
 ### Session
 
 - **Date:** 2026-11-05
-- **Researcher:** B. Harris
+- **Researcher:** Breachnode
 - **Research question:** What indicators do public sources associate with credential-stuffing campaigns against small e-commerce login pages?
 - **Session goal:** A short list of defender-visible indicators with at least two public sources behind each.
 
