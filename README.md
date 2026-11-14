@@ -1,8 +1,6 @@
 # Threat-Research OPSEC & OSINT Methodology Guide
 
-**Author:** Barry Harris — Greensboro, NC — bhar856@wgu.edu — [linkedin.com/in/barryha](https://www.linkedin.com/in/barryha)
-
-**Background:** CompTIA CySA+ (Apr 2025), CompTIA PenTest+ (Jun 2025), CompTIA Security+ (Jul 2024), Google Cybersecurity Certificate (Mar 2025), ISC2 Certified in Cybersecurity (Mar 2025). Currently pursuing a BS in Cybersecurity and Information Assurance at Western Governors University (May 2023–Present).
+**Author:** Breachnode — an independent cybersecurity threat researcher (hobbyist, self-directed) sharing defensive security research and knowledge.
 
 ## What this is
 
